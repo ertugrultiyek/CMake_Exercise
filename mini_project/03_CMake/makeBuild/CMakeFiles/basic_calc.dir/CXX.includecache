@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/ertugrul/Desktop/Ekin/Tasks/01_CMake/mini_project/03_CMake/main.cpp
+iostream
+-
+operations.h
+/home/ertugrul/Desktop/Ekin/Tasks/01_CMake/mini_project/03_CMake/operations.h
+
+/home/ertugrul/Desktop/Ekin/Tasks/01_CMake/mini_project/03_CMake/operations.h
+

@@ -1,7 +1,7 @@
-#ifndef OPR_H
-#define OPR_H
+#ifndef OPERATIONS_H
+#define OPERATIONS_H
 
-int addition(int f, int s);
-int multiplication(int f, int s);
+    int addition(int f, int s);
+    int multiplication(int f, int s);
 
 #endif

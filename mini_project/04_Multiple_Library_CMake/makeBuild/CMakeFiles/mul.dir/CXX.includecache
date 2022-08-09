@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/ertugrul/Desktop/Ekin/Tasks/01_CMake/mini_project/04_Multiple_Library_CMake/multiplication.cpp
+multiplication.h
+/home/ertugrul/Desktop/Ekin/Tasks/01_CMake/mini_project/04_Multiple_Library_CMake/multiplication.h
+
+/home/ertugrul/Desktop/Ekin/Tasks/01_CMake/mini_project/04_Multiple_Library_CMake/multiplication.h
+

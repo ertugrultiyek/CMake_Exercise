@@ -1,0 +1,1 @@
+/usr/bin/c++      CMakeFiles/basic_calc.dir/main.cpp.o  -o basic_calc -rdynamic libadd.a libmul.a 

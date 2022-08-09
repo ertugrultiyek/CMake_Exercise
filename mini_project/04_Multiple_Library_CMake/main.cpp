@@ -1,7 +1,9 @@
-#include <iostream>
-#include "operations.h"
+#include<iostream>
+#include"addition.h"
+#include"multiplication.h"
 
 using namespace std;
+
 
 
 

@@ -1,0 +1,2 @@
+/usr/bin/ar qc libmul.a  CMakeFiles/mul.dir/multiplication.cpp.o
+/usr/bin/ranlib libmul.a
